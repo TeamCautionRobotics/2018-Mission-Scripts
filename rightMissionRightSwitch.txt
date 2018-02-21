@@ -1,0 +1,12 @@
+// Mission rightMissionRightSwitch = new Mission("right mission right switch",
+
+moveStraightDistance(0.5, 160, true),
+
+// LIFT THE CUBE!!!!!!!
+
+turnInPlace(0.3, 90),
+
+moveStraightDistance(0.5, 25, true)
+
+// DEPLOY THE CUBE!!!!!!!
+

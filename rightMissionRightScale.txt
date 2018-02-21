@@ -1,0 +1,13 @@
+
+// Mission rightMissionRightScale = new Mission("right mission right scale",
+
+moveStraightDistance(0.5, 310, true),
+
+// LIFT THE CUBE!!!!!!!
+
+turnInPlace(0.3, 90),
+
+moveStraightDistance(0.5, 10, true)
+
+// DEPLOY THE CUBE!!!!!!!
+

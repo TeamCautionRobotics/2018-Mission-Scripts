@@ -1,0 +1,21 @@
+// Mission centerMissionLeftSwitch = new Mission("center mission left switch",
+
+moveStraightDistance(0.5, 30, true),
+
+turnInPlace(0.3, 60),
+
+moveStraightDistance(0.5, 160, true),
+
+turnInPlace(-0.3, 50),
+
+moveStraightDistance(0.5, 30, true),
+
+// LIFT THE CUBE!!!!!!!
+
+turnInPlace(-0.3, 90),
+
+moveStraightDistance(0.5, 25, true)
+
+// DEPLOY THE CUBE!!!!!!!
+
+
